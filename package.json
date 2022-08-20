@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Kanika Rathore",
+	"description": "This project builds a login page for netflix",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
